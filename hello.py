@@ -1,1 +1,1 @@
-print ('hello worled yared is cleaver who says that ?')
+print ('hello worled yared is who says that ?')
